@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434048059003",
+    "project_id": "farm-sense-c812b",
+    "storage_bucket": "farm-sense-c812b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434048059003:android:b339f718a34f6033e384de",
+        "android_client_info": {
+          "package_name": "com.wearev.agrisense.agrisense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0_f40lKnFLn1G93E0DKEJIuUvg6dXqw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
