@@ -23,7 +23,7 @@ class _CartScreenState extends State<CartScreen> {
             child: ListTile(
               leading: Image.asset(product.image, width: 50, height: 50),
               title: Text(product.name),
-              subtitle: Text('\$${product.price.toStringAsFixed(2)}'),
+              subtitle: Text('\₹${product.price.toStringAsFixed(2)}'),
               trailing: IconButton(
                 icon: const Icon(Icons.remove_circle),
                 onPressed: () {
